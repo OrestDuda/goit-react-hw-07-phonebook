@@ -1,0 +1,25 @@
+.contact{
+    display: block;
+    margin-right: 10px;
+}
+.search{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+.delete{
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+.list {
+    list-style: none;
+}
+.list > li {
+    text-align: center;
+}

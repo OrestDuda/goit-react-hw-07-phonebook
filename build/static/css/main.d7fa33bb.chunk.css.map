@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAGA,SAFI,iBAKJ,CAHA,MACI,aAEJ","file":"main.d7fa33bb.chunk.css","sourcesContent":["h2 {\n    text-align: center;\n}\nlabel {\n    display: block;\n    text-align: center;\n}"]}
